@@ -1,0 +1,8 @@
+﻿  Account.cpp
+D:\file code\ATM\atmmachine\atmmachine\Account.cpp(29,17): warning C4996: 'ctime': This function or variable may be unsafe. Consider using ctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\file code\ATM\atmmachine\atmmachine\Account.cpp(110,22): warning C4129: 'I': unrecognized character escape sequence
+  atmmachine.cpp
+D:\file code\ATM\atmmachine\atmmachine\atmmachine.cpp(52,31): warning C4018: '<': signed/unsigned mismatch
+D:\file code\ATM\atmmachine\atmmachine\atmmachine.cpp(71,45): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  atmmachine.vcxproj -> D:\file code\ATM\atmmachine\Debug\atmmachine.exe
